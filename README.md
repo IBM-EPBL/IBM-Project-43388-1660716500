@@ -1,3 +1,3 @@
 # IBM-Project-43388-1660716500
-# P GOWTHAM , A D BHARANI SREE , V PRAVEEN KUMAR , M SARATH , C NIRMAl kUMAR
+
 University Admit Eligibility Predictor
