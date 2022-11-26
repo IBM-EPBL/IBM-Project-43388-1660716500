@@ -2,9 +2,9 @@
 
 University Admit Eligibility Predictor
 
-#Demo Link :https://youtu.be/Waeq7y-uXhA
+# Demo Link :https://youtu.be/Waeq7y-uXhA
 
-#Team Members :
+# Team Members :
     * Gowtham P
     * Bharani Sree A D
     * Praveen Kumar V
